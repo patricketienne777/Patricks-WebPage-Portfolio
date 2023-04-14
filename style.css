@@ -9,7 +9,7 @@ body {
 
 }
 
-.header {
+.menu {
     padding: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: chartreuse ;
@@ -22,13 +22,28 @@ li {
     background-color: chartreuse ;
     color: crimson;
     
-}.battle {
+}
+
+.battle {
     height: 500px;
     width: 500px;
     margin-bottom: 25px;
     background-image: url(./Week-2-Challenge/Jump\ into\ Action\ Screenshot!.png);
     background-size: cover;
     background-position: center;
-    border: ;
+    float: right;
+}
 
+.new-battle {
+    height: 500px;
+    width: 500px;
+    margin-bottom: 25px;
+    background-size: cover;
+    background-position: center;
+    
+
+}
+
+.explore {
+    
 }
