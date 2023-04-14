@@ -12,8 +12,14 @@ body {
 .menu {
     padding: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: chartreuse ;
+    background-color: chartreuse ; 
     color: crimson;
+    
+}
+
+.about-me-title {
+    background: orangered ;
+    color: white ;
 }
 
 li {
@@ -24,15 +30,6 @@ li {
     
 }
 
-.battle {
-    height: 500px;
-    width: 500px;
-    margin-bottom: 25px;
-    background-image: url(./Week-2-Challenge/Jump\ into\ Action\ Screenshot!.png);
-    background-size: cover;
-    background-position: center;
-    float: right;
-}
 
 .new-battle {
     height: 500px;
@@ -46,4 +43,17 @@ li {
 
 .explore {
     
+}
+
+.about-me {
+    background: red;
+}
+
+@media screen and (max-width:414px) {
+    .menu{
+        width: 100%;
+    }
+    .about-me{
+        width: 100%;
+    }
 }
