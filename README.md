@@ -1,4 +1,4 @@
-# Patricks-WebPage-Portfolio
+# patricks-webpage-portfolio
 
 Hello! As you can tell, my name is Patrick Etienne and I have created this repository for my week 2 Challenge in my UM Coding BootCamp.
 This week, my objective is to create a portfolio that showcases my capabilities and previous work experiences to potential employers.
