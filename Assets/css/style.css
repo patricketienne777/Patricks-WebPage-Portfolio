@@ -18,8 +18,7 @@ body {
 }
 
 .about-me-title {
-    background: orangered ;
-    color: white ;
+    
 }
 
 li {
@@ -37,11 +36,14 @@ li {
     margin-bottom: 25px;
     background-size: cover;
     background-position: center;
+    display: inline;
     
 
 }
 
-.explore {
+.contact-me {
+    background-color: yellow;
+    
     
 }
 
